@@ -1,0 +1,6 @@
+CREATE TABLE Monster(monsterID INTEGER Primary Key not Null, monsterName text not null, monsterDescription text not null);
+insert into Monster(monsterID, monsterName, monsterDescritption) values(1,'disfigured robot duck,its defeat opens new path');
+insert into Monster(monsterID, monsterName, monsterDescritption) values(2, 'Monkey','a robot with black eyes and wide static smile, its defeat drops an item');
+insert into Monster(monsterID, monsterName, monsterDescritption) values(3,'Bunny','a robot bunny the size of a human with potruding mechanical part');
+insert into Monster(monsterID, monsterName, monsterDescritption) values(4,'Centipede','a robot centipede with an estimated length of a car');
+insert into Monster(monsterID, monsterName, monsterDescritption) values(5,'Black bear', 'a large disfigured mechanical bear made up of steel and flesh');

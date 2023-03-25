@@ -1,0 +1,6 @@
+CREATE TABLE MonsterRoom(monsterID INTEGER Primary Key not Null, roomID INTEGER not null);
+insert into MonsterRoom(monsterID,roomID) values(1, 4);
+insert into MonsterRoom(monsterID,roomID) values(2,8);
+insert into MonsterRoom(monsterID,roomID) values(3,18);
+insert into MonsterRoom(monsterID,roomID) values(4,23);
+insert into MonsterRoom(monsterID,roomID) values(1,29);

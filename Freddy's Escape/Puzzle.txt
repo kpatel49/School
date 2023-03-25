@@ -1,0 +1,6 @@
+CREATE TABLE Puzzle(puzzleID INTEGER Primary, puzzleDescription text not null);
+insert into Puzzle(puzzleID,puzzleDescription) values(1, 'insert a key:');
+insert into Puzzle(puzzleID,puzzleDescription) values(2, 'insert a key:');
+insert into Puzzle(puzzleID,puzzleDescription) values(3, 'insert a key:');
+insert into Puzzle(puzzleID,puzzleDescription) values(4, 'select and use keycard:');
+insert into Puzzle(puzzleID,puzzleDescription) values(5, 'insert a key:');

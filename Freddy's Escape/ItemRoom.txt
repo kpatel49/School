@@ -1,0 +1,10 @@
+CREATE TABLE ItemRoom(itemID INTEGER Primary Key not Null,roomID INTEGER not null);
+insert into Item(itemID,roomID) values(1,2);
+insert into Item(itemID,roomID) values(2,3);
+insert into Item(itemID,roomID) values(3,5);
+insert into Item(itemID,roomID) values(5,10);
+insert into Item(itemID,roomID) values(6,13);
+insert into Item(itemID,roomID) values(7,17);
+insert into Item(itemID,roomID) values(8,19);
+insert into Item(itemID,roomID) values(9,26);
+insert into Item(itemID,roomID) values(10,8);

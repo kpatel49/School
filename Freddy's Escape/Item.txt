@@ -1,0 +1,10 @@
+CREATE TABLE Item(itemID INTEGER Primary Key not Null, itemName text not null, itemDescription text not null);
+insert into Item(itemID,itemName,itemDescription) values(1,'Mouse Key', 'insert in a key slot');
+insert into Item(itemID,itemName,itemDescription) values(2,'Master Sword','use to attack monsters');
+insert into Item(itemID,itemName,itemDescription) values(3,'Chocolate milk','recover 25hp');
+insert into Item(itemID,itemName,itemDescription) values(4,'Slingshot','use to attack monsters at a distance');
+insert into Item(itemID,itemName,itemDescription) values(5,'USB drive','contains Freddy's memory');
+insert into Item(itemID,itemName,itemDescription) values(6,'Fireman's Axe','use to attack monster');
+insert into Item(itemID,itemName,itemDescription) values(7,'Full moon key', 'insert into keyslot');
+insert into Item(itemID,itemName,itemDescription) values(8,'Black lion key' ,'insert into keyslot');
+insert into Item(itemID,itemName,itemDescription) values(9,'Skull key','insert into keyslot');

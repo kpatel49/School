@@ -1,0 +1,5 @@
+CREATE TABLE Solution(puzzleID INTEGER Primary Key not Null, itemID INTEGER not null);
+insert into Item(puzzleID,itemID) values(1,1);
+insert into Item(puzzleID,itemID) values(2,9);
+insert into Item(puzzleID,itemID) values(3,7);
+insert into Item(puzzleID,itemID) values(5,8);
