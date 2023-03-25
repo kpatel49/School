@@ -1,0 +1,21 @@
+1
+Entrance
+You have entered a dark, low cave that seems to lead to a slightly larger cavern to the north. Enter 2 to go NORTH.  
+2
+Cavern
+You have entered the cavern, you see a torch on the floor.Then you hear a river to your East.Enter 3 to go EAST.
+3 
+River
+You have found the river and you hear a swarm of bug coming for the west.You can follow the river down stream or you can go towards the light coming from the north. Enter 4 to go NORTH or Enter 5 to go SOUTH.
+4
+Dead End
+You found the source of the light, but it lead to a dead end. So you decide to go back the way you came from. Enter 6 to go SOUTH.
+5
+Water Fall
+You followed the river down stream and you found a waterfall.The only ways of getting down from the waterfall is to either jump or take the pathway to your west. You decide that taking the path would be safer. Enter 7 to go WAST.
+6
+Impending Doom
+You have been walking on the path for a while now and you don't see the end of it. So you decide to climb down the mountain. Enter 8 to go DOWN. 
+7
+Finish
+Congratulations!!!You have made it out of the cavern. Would you like to exit? enter 0.
