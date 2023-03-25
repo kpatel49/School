@@ -1,0 +1,32 @@
+English
+English Composition I
+2318
+Freshman
+Reading
+English
+English Composition II
+9540
+Sophomore
+Writing 
+History
+American Government
+9458
+True
+False
+lecture
+History
+U.S. History II
+4837
+False
+True
+Online
+Math
+College Algebra
+3482
+True
+Online
+Math
+Calculus
+7478
+True
+Online
