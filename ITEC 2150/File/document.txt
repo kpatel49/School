@@ -1,0 +1,2 @@
+try resource auto close is much simpler and convenient to save a file 
+9.10 is 
